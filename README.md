@@ -28,3 +28,13 @@ Este proyecto fue creado como práctica personal para afianzar conocimientos de 
 
 ```bash
 git clone https://github.com/renato-desarrollador/youtube-mp3-downloader.git
+
+```
+
+2. Ejecutar el programa desde la terminal:
+
+```bash
+python app.py
+```
+
+3. Pegar la URL del video de YouTube cuando el programa lo solicite.
